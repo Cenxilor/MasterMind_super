@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/Annimation/Artifice/firework_red0.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/Annimation/Artifice/firework_red1.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/Annimation/Artifice/firework_red2.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/Annimation/Artifice/firework_red3.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/Annimation/Artifice/firework_red4.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/Annimation/Artifice/firework_red5.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/Annimation/Artifice/firework_red6.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/Annimation/Artifice/firework_red7.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/Annimation/explosion/explode_1.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/Annimation/explosion/explode_2.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/Annimation/explosion/explode_3.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/Annimation/explosion/explode_4.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/Annimation/explosion/explode_5.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/mainFont.spritefont</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/sound/feu_artifice.wav</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/sprites/boite.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/sprites/button.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/sprites/cache.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/sprites/case_ref.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/sprites/couleurs/blanc.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/sprites/couleurs/bleu.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/sprites/couleurs/jaune.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/sprites/couleurs/noir.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/sprites/couleurs/orange.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/sprites/couleurs/rouge.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/sprites/couleurs/vert.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/sprites/couleurs/violet.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/sprites/pions_reponses/pion_blanc.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/sprites/pions_reponses/pion_noir.png</File>
+    <File>P:/2_Programation/mini-game/MasterMind/Content/sprites/plateau.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

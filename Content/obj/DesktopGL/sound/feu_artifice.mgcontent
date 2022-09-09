@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>P:/2_Programation/mini-game/MasterMind/Content/sound/feu_artifice.wav</SourceFile>
+  <SourceTime>2022-06-19T18:27:07.3113741+02:00</SourceTime>
+  <DestFile>P:/2_Programation/mini-game/MasterMind/Content/bin/DesktopGL/sound/feu_artifice.xnb</DestFile>
+  <DestTime>2022-08-28T15:41:21.233995+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T18:17:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

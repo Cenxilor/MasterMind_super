@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wi1Ato4kSKBaZzcCt8rWHHiDPBIKnS5pPR2iUGecKdfIh2/pdRZ6AVde/TFEo9jh84pI+SdkIEZh3SwblO3dOg==",
+  "success": true,
+  "projectFilePath": "P:\\2_Programation\\mini-game\\MasterMind\\MasterMind_super.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thoma\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
